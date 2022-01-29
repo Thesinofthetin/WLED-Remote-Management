@@ -1,1 +1,1 @@
-# WLED-Remote-Manhament
+# WLED-Remote-Management
